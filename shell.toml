@@ -1,0 +1,107 @@
+[bar]
+background = "#0b1118"
+background-alpha = 0.92
+text = "#d9d4be"
+active = "#d6a84f"
+scale-with-font = true
+size-horizontal = 28
+size-vertical = 30
+
+[hyprland]
+active-border = "#d6a84f #294363 #101820 #294363 #d6a84f 35deg"
+active-border-foreground = "#f0c968 #6d8fbe #d6a84f 35deg"
+
+[controls]
+normal-color = "#d9d4be"
+normal-fill-alpha = 0.04
+normal-border = "#6f8294"
+normal-border-width = 1
+normal-border-alpha = 0.42
+hover-cursor-color = "#d6a84f"
+hover-cursor-fill-alpha = 0.08
+hover-cursor-border = "#d6a84f"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.55
+focus-color = "#d6a84f"
+focus-fill-alpha = 0.10
+focus-border = "#d6a84f"
+focus-border-width = 1
+focus-border-alpha = 0.85
+selected-color = "#d6a84f"
+selected-fill-alpha = 0.16
+selected-border-width = 0
+pressed-fill-alpha = 0.22
+selection-fill-alpha = 0.35
+
+[spacing]
+scale = 0.98
+scale-with-font = true
+
+[font]
+base-size = 12
+
+[popups]
+background = "#101820"
+background-alpha = 0.95
+text = "#d9d4be"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+
+[tooltip]
+background = "#101820"
+background-alpha = 0.98
+text = "#d9d4be"
+border = "hyprland.active-border-foreground"
+border-alpha = 1.0
+
+[notifications]
+background = "#101820"
+background-alpha = 0.96
+text = "#d9d4be"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+countdown = "#d6a84f"
+
+[launcher]
+background = "#101820"
+background-alpha = 0.96
+text = "#d9d4be"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#080d13"
+scrim-alpha = 0.60
+selected-background = "#294363"
+selected-background-alpha = 0.52
+selected-text = "#f0c968"
+selected-border = "#d6a84f"
+selected-border-alpha = 0.40
+selected-border-width = 0
+
+[menu]
+background = "#101820"
+background-alpha = 0.96
+text = "#d9d4be"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#080d13"
+scrim-alpha = 0.58
+selected-background = "#294363"
+selected-background-alpha = 0.52
+selected-text = "#f0c968"
+selected-border = "#d6a84f"
+selected-border-alpha = 0.40
+selected-border-width = 0
+
+[lock]
+background = "#101820"
+background-alpha = 0.88
+text = "#d9d4be"
+placeholder = "#6f8294"
+text-error = "#e38b78"
+border = "#6f8294"
+border-active = "#d6a84f"
+border-error = "#e38b78"

@@ -1,0 +1,35 @@
+mode = "dark"
+
+# Dear Vincent — restrained midnight blues, indigo and warm ochre.
+accent = "#d6a84f"
+selection = "#294363"
+muted = "#6f8294"
+
+background = "#101820"
+dark_background = "#0b1118"
+darker_background = "#080d13"
+lighter_background = "#172b45"
+
+foreground = "#d9d4be"
+dark_foreground = "#8290a0"
+light_foreground = "#c6c5b4"
+bright_foreground = "#f0e6c8"
+
+red = "#c96a5b"
+yellow = "#d6a84f"
+orange = "#c98c4b"
+green = "#8fa66b"
+cyan = "#70a1a8"
+blue = "#6d8fbe"
+magenta = "#9a7fb0"
+brown = "#72543b"
+
+bright_red = "#e38b78"
+bright_yellow = "#f0c968"
+bright_green = "#b4c982"
+bright_cyan = "#9bcbd0"
+bright_blue = "#9ab9e0"
+bright_magenta = "#c2a6d2"
+
+active_border_color = "#d6a84f"
+active_tab_background = "#294363"

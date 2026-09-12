@@ -1,0 +1,14 @@
+@define-color background #101820;
+@define-color foreground #d9d4be;
+@define-color selected #294363;
+@define-color accent #d6a84f;
+
+window { background-color: rgba(8, 13, 19, 0.70); }
+window .box-wrapper {
+  border: 2px solid @accent;
+  padding: 14px 18px;
+  background-color: rgba(16, 24, 32, 0.97);
+  box-shadow: 0 18px 48px rgba(0, 8, 20, 0.55);
+}
+entry { color: @foreground; caret-color: @accent; }
+row:selected { background: @selected; color: #f0e6c8; }
